@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mr. Mandal, Glad to see you!
 
-I'm a self-taught passionate aspiring Fullstack Engineer from India 🇮🇳
+I'm a passionate aspiring Fullstack Engineer from India 🇮🇳
 
 **About me**
 
