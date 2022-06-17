@@ -28,9 +28,13 @@ const aboutDebabrataMandal = {
 |---|---|---|---|---| -->
 
 > **Statistics**
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayanKaran&show_icons=true&theme=radical&hide_title=true&card_width=200)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayanKaran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > **Contribution Graph**
+
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=NayanKaran&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 > **Let's Connect**
