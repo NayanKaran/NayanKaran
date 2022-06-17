@@ -12,7 +12,7 @@ I'm a passionate aspiring Fullstack Engineer from India 🇮🇳
 - Open to new job opportunities.
 - Live in India.
 - Email: bapidebabrata@gmail.com
-- Portfolio
+- [Portfolio](https://nayankaran.github.io/Portfolio/)
 
 <code><img height="64px" src="https://user-images.githubusercontent.com/33381784/172000036-3115d052-470e-4126-859b-f287369578b2.png"></code>
 
