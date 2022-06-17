@@ -1,35 +1,40 @@
-### Hi there 👋 I'm Mr. Mandal, Glad to see you!
+## Hi there 👋 
+> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" align="right" width="130">
 
-I'm a passionate aspiring Fullstack Engineer from India 🇮🇳
+![](https://komarev.com/ghpvc/?username=NayanKaran&color=orange)
 
-**About me**
+```JavaScript
+const aboutDebabrataMandal = {
+    fullName: "Debabrata Mandal",
+    pronouns: ["He", "Him"],
+    nationality: "Indian 🇮🇳",
+    jobStatus: ["Student at Microverse", "Professional Freelancer"],
+    hobbies: ["Playing badminton","Reading","Watching movies","Debating","Solving problems"],
+    techStack:["Python","PHP","CSS","JavaScript","HTML","SQL","Bootstrap","Node JS"],
+    isWorkingNow: true,
+    educationLevel: {
+        bachlorsDegree: "Applied Electronics and Instrumentation Engineering",
+        isCompleted: true,
+    },
+    socialMedias: ["LinkedIn", "WhatsApp", "Twitter"],
+    codingEnviroment: "Github",
+    nowLearning: ["Full stack web developement at Microverse"],
+    lookingForNewOpportunities: true    
+}
+```
+<!-- > Languages & Technologies
+> 
+|  [<img src="https://pngimg.com/uploads/php/php_PNG12.png" alt="c logo" width="50">](https://www.php.net/) |  [<img src="https://jfdi.info/wp-content/uploads/bootstrap.png" alt="Bootsrap logo" width="50">](https://isocpp.org/)  |  [<img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png" alt="c logo" width="50">](https://kotlinlang.org/) |  [<img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png" alt="c logo" width="50">](https://spring.io/) | [<img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png" alt="c logo" width="50">](https://spring.io/) |
+|---|---|---|---|---| -->
 
-- 💼 Full-Stack Developer at [Microverse](http://microverse.com/)
+> **Statistics**
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayanKaran&show_icons=true&theme=radical&hide_title=true&card_width=200)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayanKaran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- ❤️ I love writing JavaScript, and building fun projects using it.
+> **Contribution Graph**
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=NayanKaran&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 💬 Ask me about anything [here](https://github.com/NayanKaran/NayanKaran/issues)
-- Open to new job opportunities.
-- [Portfolio](https://nayankaran.github.io/Portfolio/)
+> **Let's Connect**
 
-<code><img height="64px" src="https://user-images.githubusercontent.com/33381784/172000036-3115d052-470e-4126-859b-f287369578b2.png"></code>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NayanKaran&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mr. Mandal's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayanKaran&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/NayanKaran/To-do-list">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayanKaran&repo=To-do-list&theme=buefy" />
-</a>
-<a href="https://github.com/NayanKaran/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NayanKaran&repo=Portfolio&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/bapidebabrata">
-  <img align="right" alt="Mr. Mandal | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+[![](https://img.shields.io/badge/LinkedIn-Debabrata%20Mandal-blue)](https://www.linkedin.com/in/debabrata-mandal-83461696/)
+[![](https://img.shields.io/badge/Email-Debabrata%20Mandal-red)](mailto:admin@debabratamandal.com)
+[![](https://img.shields.io/badge/Twitter-Debabrata%20Mandal-blue)](https://twitter.com/bapidebabrata)
